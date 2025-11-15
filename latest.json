@@ -1,0 +1,10 @@
+{
+  "tag": "release-1.0",
+  "checksum": "f860303fde3eaf46014e738ee7903aa2",
+  "assets": [
+    {
+      "name": "obi.png",
+      "download_url": "https://github.com/synthx-dev/om-macros/releases/download/release/Obi.png"
+    }
+  ]
+}
