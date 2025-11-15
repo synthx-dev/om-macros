@@ -1,6 +1,6 @@
 {
   "tag": "release-1.0",
-  "checksum": "1706f55b3c399313797dea88d5e627e25",
+  "checksum": "22fb10447bb5696e6bea84d3e421bc91",
   "assets": [
     {
       "name": "obi.png",
@@ -8,5 +8,6 @@
     }
   ]
 }
+
 
 
